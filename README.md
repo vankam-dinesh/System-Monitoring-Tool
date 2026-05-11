@@ -3,7 +3,7 @@
 ## Features
 - Real-time CPU, Memory, Disk monitoring
 - Logging system performance
-- Alert system (extendable to email/Slack)
+- Alert system (extendable to email/Slack)                                            
 - Threshold-based warnings
 
 ## Run
