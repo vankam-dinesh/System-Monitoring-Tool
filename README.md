@@ -6,6 +6,6 @@
 - Alert system (extendable to email/Slack)                                            
 - Threshold-based warnings
 
-## Run
+## Run                     
 pip install -r requirements.txt                                             
 python monitor.py                  
